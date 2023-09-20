@@ -1,2 +1,3 @@
 # Ini adalah repository untuk latihan membuat branch baru di Github.
-Rill cuy.
+Github itu asyik lho.
+
